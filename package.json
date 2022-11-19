@@ -1,0 +1,23 @@
+{
+  "name": "ajs_homework_1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xoneru/ajs_homework_1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xoneru/ajs_homework_1/issues"
+  },
+  "homepage": "https://github.com/xoneru/ajs_homework_1#readme",
+  "dependencies": {
+    "@xoneru/ajs_homework": "^1.0.0"
+  }
+}
